@@ -7,7 +7,6 @@ from tkFileDialog import askopenfilename,asksaveasfilename
 import FileDialog
 import warnings,webbrowser
 
-#hello there hilo tr
 
 class Koushik(object):
 
