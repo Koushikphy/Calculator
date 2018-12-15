@@ -6,7 +6,7 @@ import numpy as np
 from tkFileDialog import askopenfilename,asksaveasfilename
 import FileDialog
 import warnings,webbrowser
-
+#cnflict
 class Koushik(object):
 
 
